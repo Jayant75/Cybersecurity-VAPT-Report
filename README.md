@@ -41,6 +41,7 @@ This project outlines a systematic Vulnerability Assessment and Penetration Test
 | Open Port (FTP - 21)     | Medium     | Nmap           | Restrict access, secure FTP |
 
 📎 See `report/Cybersecurity-(VAPT) Project Report.pdf folder for evidence.
+[Click here to view the VAPT Report PDF](./docs/Cybersecurity-(VAPT)_Project Report .pdf)
 
 ---
 
